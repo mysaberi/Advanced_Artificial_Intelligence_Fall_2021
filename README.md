@@ -1,5 +1,5 @@
 # Advanced Artificial Intelligence Fall 2021
-_______________
+
 
 The final project of this course was about designing and implementing a Multi-Agent environment for 4 preditors in a 20\*20 grid with 8 unlimited food sources. </br>
 
