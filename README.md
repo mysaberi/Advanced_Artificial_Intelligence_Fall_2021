@@ -1,6 +1,6 @@
 # Advanced Artificial Intelligence Final Project
 
-The final project of this course was about designing and implementing a Multi-Agent environment for 4 preditors in a 20\*20 grid with 8 unlimited food sources. </br>
+The final project of this course was about designing and implementing a Multi-Agent environment for 4 predators in a 20\*20 grid with 8 unlimited food sources. </br>
 
 * Every time an agent feeds from a food-source, it will recieve a +1 reward.
 * Every time an agent is under attack, it recieves a reward of -4.
